@@ -1,2 +1,2 @@
-# discrete_optimization
+# discrete-optimization
 Solutions to discrete optimazation problems
